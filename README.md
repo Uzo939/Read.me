@@ -1,2 +1,2 @@
 # Read.me
-read.md!
+read.md
